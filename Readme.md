@@ -4,9 +4,9 @@
 
 This app uses various forms of inputs such as switches, text fields, and segmented controls to gather information about the user to introduce themselves.
 
-### App Walk-though\
+### App Walk-though
 
-<img src="https://github.com/Edv23/IOS_102/blob/main/ezgif.com-gif-maker%20(1).gif" width=200><br>
+<img src="https://github.com/Edv23/iOS_102_Prework/blob/main/ezgif.com-gif-maker%20(1).gif" width=200><br>
 
 ### Required Features
 
